@@ -1,6 +1,8 @@
 .item-1{
-	display:flex;
 	justify-content:center;
 	width:auto;
 	height:auto;
+}
+.holder{
+	display:flex;
 }
